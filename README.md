@@ -1,12 +1,3 @@
-A detailed README for a Simple Interest Calculator template typically outlines how to calculate interest (
-) using user-inputted values for Principal (
-), Rate (
-), and Time (
-). These templates are designed for quick financial assessments, such as calculating interest on savings or loans. 
-Arc Education
-Arc Education
-
-Here is a detailed breakdown of the components found in a typical Simple Interest Calculator README:
 1. Project Overview
 Purpose: A tool to compute the interest earned or paid on an initial sum (principal) over a specific time period without compounding.
 Formula Used: 
